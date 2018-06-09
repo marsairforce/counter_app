@@ -1,9 +1,12 @@
 # A simple counter application
-This is a device that has 2 7-segment displays, and buttons.
 
+This is a device that has 2 7-segment displays, and buttons.
+![Counter Application](Photos/IMG_1023.jpg)
 
 It can be used for simple manual counting of something.
 I originally built it for a "It has been xx days since.." signs.
+
+But it can also be used for one of those "Now serving xx" signs.
 
 This project was a test of the waters to see what OSHPark is able to create.
 
